@@ -1,3 +1,14 @@
+> **CultureReset fork of [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight).** Hindsight: Agent Memory That Learns.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/vectorize-io/hindsight).
+>
+> The upstream README follows unchanged.
+
+---
+
 <div align="center">
 
 ![Hindsight Banner](./hindsight-docs/static/img/hindsight-github-banner.png)
